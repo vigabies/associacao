@@ -1,4 +1,4 @@
-# Subject Builders and inheritances
+# Subject Builders and Inheritances
  
 <h3>Context:</h3>
 A new pharmacy network has been opened in the city, and you have been hired as an analyst/programmer to work on the software factory project. Your task is to manage the registration application. In the system, establishments and pharmacies associated with the main office, drug suppliers, and employees must be registered.
